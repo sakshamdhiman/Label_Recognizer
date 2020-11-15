@@ -5,11 +5,11 @@
 #### On local Instance - 
 - Upload the attached file on AWS Cloud9.
 - Configure Environment variables ("ENV" in top right corner of terminal)-
- - PHOTOS_BUCKET : name of the S3 bucket you will create to save the photos
- - FLASK_SECRET : any alphanumeric string
- - DATABASE_HOST : database endpoint of the database you will create to store the labels 
- - DATABASE_USER : database username 
- - DATABASE_PASSWORD : database user password
- - DATABASE_DB_NAME : database name 
+  - PHOTOS_BUCKET : name of the S3 bucket you will create to save the photos
+  - FLASK_SECRET : any alphanumeric string
+  - DATABASE_HOST : database endpoint of the database you will create to store the labels 
+  - DATABASE_USER : database username 
+  - DATABASE_PASSWORD : database user password
+  - DATABASE_DB_NAME : database name 
 
 
