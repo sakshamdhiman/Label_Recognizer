@@ -1,5 +1,5 @@
 # Label_Recognizer
-### This program labels the contents in any given picture. It is made using the AWS platform where the uploaded photos are store on AWS S3, labels are generated using AWS Rekognition and the labels generated for the photos are stored in AWS RDS. All of this is viewed on a web interface using AWS EC2.
+### This program labels the contents in any given picture. It is made using the AWS platform where the uploaded photos are stored on AWS S3, labels are generated using AWS Rekognition and the labels generated for the photos are stored in AWS RDS. All of this is viewed on a web interface using AWS EC2.
 
 ![Screenshot (552)](https://user-images.githubusercontent.com/28104166/99189260-5d56c280-2786-11eb-9879-dc182932fd68.png)
 
